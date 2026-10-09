@@ -1,0 +1,9 @@
+.sidebar {
+  background-color: var(--color-primary, #0D1B2A);
+  color: #ffffff;
+}
+
+.header {
+  background-color: #ffffff;
+  color: #0f172a;
+}
